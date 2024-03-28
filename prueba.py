@@ -1,3 +1,3 @@
-print(" new 50 hello git!")
-print("hello git2!")
+print("hello github1!")
+print("hello github2!")
 
